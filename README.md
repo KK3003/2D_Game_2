@@ -7,12 +7,11 @@ ___
 ___
 # Screenshots
 ___
-![screenshot](/ScreenShots/1.jpg)
+![screenshot](/Screenshots/Virusn1.jpeg)
 ___
-![screenshot](/ScreenShots/2.jpg)
+![screenshot](/Screenshots/Virusn2.jpeg)
 ___
-![screenshot](/ScreenShots/3.jpg)
-___
+![screenshot](/Screenshots/Virusn3.jpeg)
 ___
 # Features
 The functionalities used in this project include:
