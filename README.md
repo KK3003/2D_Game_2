@@ -7,7 +7,7 @@ ___
 ___
 # Screenshots
 ___
-![screenshot](/Screenshots/Virusn1.jpeg)
+![screenshot](/Screenshots/virusn1.jpeg)
 ___
 ![screenshot](/Screenshots/Virusn2.jpeg)
 ___
