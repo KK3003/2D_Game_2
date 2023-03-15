@@ -19,4 +19,4 @@ The functionalities used in this project include:
   * Spritesheet - To create character sprites and UI sprites configurable for the project 
   * Animator - To create player animations and enemy animations
   * DOTween - To create UI animations
-  
+  * Object Pooling - Used for player bullet shooting mechanism to improve performance
