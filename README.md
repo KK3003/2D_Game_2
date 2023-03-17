@@ -8,6 +8,7 @@ The functionalities used in this project include:
   * DOTween - To create UI animations
   * Object Pooling - Used to create pool of bullets  
   * Enemy AI - Enemy AI to battle with player and patrolling 
+  * Google Ads - To display Ads to user
 ___
 # Screenshots
 ___
